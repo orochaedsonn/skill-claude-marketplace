@@ -1,4 +1,4 @@
-# R9 Marketplace Skill — v1.0
+# R9 Marketplace Skill — v2.0
 
 Desenvolvida por **Edson Rocha - R9mkt**
 
@@ -18,6 +18,8 @@ Ao instalar, o Claude passa a ter conhecimento especializado em:
 - Gerar relatórios de performance para apresentar a clientes
 - Criar workflows de automação com n8n + APIs dos marketplaces
 - Aplicar as regras e políticas do Mercado Livre e Shopee corretamente
+- Configurar e integrar o Bling ERP com o Mercado Livre (NF, Full, Faturador)
+- Integrar o Bling com Google Sheets via API v3 + Apps Script para precificação
 
 ---
 
@@ -53,15 +55,17 @@ Ao instalar, o Claude passa a ter conhecimento especializado em:
 
 ```
 r9-marketplace/
-├── SKILL.md                    # Definição principal da skill (lida pelo Claude)
+├── SKILL.md                        # Definição principal da skill (lida pelo Claude)
 └── references/
-    ├── anuncios-copy.md        # Regras e templates para títulos e descrições
-    ├── precificacao.md         # Estratégias de preço e análise competitiva
-    ├── atendimento.md          # Respostas a clientes, reclamações, mediação
-    ├── relatorios.md           # Templates de relatórios para clientes
-    ├── n8n-automacao.md        # Workflows e integrações via n8n
-    ├── mercado-livre.md        # Algoritmo, políticas e boas práticas do ML
-    └── shopee.md               # Algoritmo, boosting e políticas da Shopee
+    ├── anuncios-copy.md            # Regras e templates para títulos e descrições
+    ├── precificacao.md             # Estratégias de preço e análise competitiva
+    ├── atendimento.md              # Respostas a clientes, reclamações, mediação
+    ├── relatorios.md               # Templates de relatórios para clientes
+    ├── n8n-automacao.md            # Workflows e integrações via n8n
+    ├── mercado-livre.md            # Algoritmo, políticas e boas práticas do ML
+    ├── shopee.md                   # Algoritmo, boosting e políticas da Shopee
+    ├── bling-ml.md                 # Configuração Bling+ML, Faturador, Full, checklist
+    └── bling-google-sheets.md      # Integração Bling API v3 com planilha de precificação
 ```
 
 ---
@@ -76,6 +80,8 @@ Depois de instalar, basta conversar com o Claude normalmente. A skill é ativada
 - Relatório de vendas, performance de loja
 - Campanha ADS, Product Ads
 - n8n, automação, API do Mercado Livre ou Shopee
+- Bling, integração Bling+ML, Faturador ML, Full, NF, certificado A1
+- Bling + Google Sheets, planilha de precificação, Apps Script, OAuth Bling
 - "me ajuda com minha loja", "precificar", "anúncio"
 
 ### Exemplos de uso
@@ -90,6 +96,10 @@ Depois de instalar, basta conversar com o Claude normalmente. A skill é ativada
 "Monta um relatório de performance mensal para apresentar ao cliente"
 
 "Cria um workflow em n8n para atualizar estoque via API do ML"
+
+"Como configuro o Bling para emitir NF automaticamente no ML?"
+
+"Como integro o Bling com o Google Sheets para precificação via Apps Script?"
 ```
 
 ---
