@@ -1,4 +1,4 @@
-# R9 Marketplace Skill — v2.0
+# R9 Marketplace Skill — v3.0
 
 Desenvolvida por **Edson Rocha - R9mkt**
 
@@ -20,6 +20,7 @@ Ao instalar, o Claude passa a ter conhecimento especializado em:
 - Aplicar as regras e políticas do Mercado Livre e Shopee corretamente
 - Configurar e integrar o Bling ERP com o Mercado Livre (NF, Full, Faturador)
 - Integrar o Bling com Google Sheets via API v3 + Apps Script para precificação
+- Usar templates prontos de anúncios por produto (título, descrição, checklist de publicação)
 
 ---
 
@@ -65,7 +66,8 @@ r9-marketplace/
     ├── mercado-livre.md            # Algoritmo, políticas e boas práticas do ML
     ├── shopee.md                   # Algoritmo, boosting e políticas da Shopee
     ├── bling-ml.md                 # Configuração Bling+ML, Faturador, Full, checklist
-    └── bling-google-sheets.md      # Integração Bling API v3 com planilha de precificação
+    ├── bling-google-sheets.md      # Integração Bling API v3 com planilha de precificação
+    └── anuncio-pulseira-riviera.md # Template pronto: título, descrição e checklist da Pulseira Riviera
 ```
 
 ---
@@ -82,6 +84,7 @@ Depois de instalar, basta conversar com o Claude normalmente. A skill é ativada
 - n8n, automação, API do Mercado Livre ou Shopee
 - Bling, integração Bling+ML, Faturador ML, Full, NF, certificado A1
 - Bling + Google Sheets, planilha de precificação, Apps Script, OAuth Bling
+- Pulseira Riviera, anúncio pulseira, template de produto
 - "me ajuda com minha loja", "precificar", "anúncio"
 
 ### Exemplos de uso
@@ -100,6 +103,8 @@ Depois de instalar, basta conversar com o Claude normalmente. A skill é ativada
 "Como configuro o Bling para emitir NF automaticamente no ML?"
 
 "Como integro o Bling com o Google Sheets para precificação via Apps Script?"
+
+"Qual é o título e a descrição otimizados para a Pulseira Riviera Baguete?"
 ```
 
 ---

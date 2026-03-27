@@ -1,5 +1,4 @@
 ﻿# Bling + Google Sheets — Integração via API v3
-> por Edson Rocha - R9mkt
 
 ## O que é e para que serve
 
