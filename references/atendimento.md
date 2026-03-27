@@ -1,4 +1,5 @@
 ﻿# Atendimento e Reputação — R9 Marketplace
+> por Edson Rocha - R9mkt
 
 ## Princípios de atendimento em marketplace
 

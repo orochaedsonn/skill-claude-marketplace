@@ -1,4 +1,5 @@
 ﻿# Precificação e Análise de Concorrentes — R9 Marketplace
+> por Edson Rocha - R9mkt
 
 ## Modelo de precificação para marketplace
 

@@ -1,4 +1,5 @@
 ﻿# Mercado Livre — Referência Completa R9
+> por Edson Rocha - R9mkt
 
 ## Algoritmo do ML (como funciona o ranking)
 

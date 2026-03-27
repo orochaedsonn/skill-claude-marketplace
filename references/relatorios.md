@@ -1,4 +1,5 @@
 ﻿# Relatórios de Performance — R9 Marketplace
+> por Edson Rocha - R9mkt
 
 ## Tipos de relatório
 
@@ -17,7 +18,7 @@
 ========================================
 RELATÓRIO DE PERFORMANCE — MARKETPLACE
 [Nome do Cliente] | [Mês/Ano]
-Preparado por: R9 Marketing
+Preparado por: Edson Rocha - R9mkt
 ========================================
 
 📈 RESUMO EXECUTIVO
@@ -103,7 +104,7 @@ PRÓXIMA SEMANA:
 • [plano 2]
 
 Qualquer dúvida, estou à disposição! 🚀
-R9 Marketing
+Edson Rocha - R9mkt
 ```
 
 ---
@@ -114,7 +115,7 @@ R9 Marketing
 ========================================
 DIAGNÓSTICO INICIAL — MARKETPLACE
 [Nome do Cliente] | Data: [XX/XX/XXXX]
-R9 Marketing
+Edson Rocha - R9mkt
 ========================================
 
 🔍 SITUAÇÃO ATUAL

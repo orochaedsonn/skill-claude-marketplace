@@ -1,4 +1,5 @@
 ﻿# Automação n8n + APIs de Marketplace — R9 Marketplace
+> por Edson Rocha - R9mkt
 
 ## Contexto técnico da R9
 

@@ -1,6 +1,8 @@
 # R9 Marketplace Skill — v1.0
 
-Skill para Claude Code especializada em gestão de marketplaces e e-commerce, desenvolvida pela **R9 Marketing**.
+Desenvolvida por **Edson Rocha - R9mkt**
+
+Skill para Claude Code especializada em gestão de marketplaces e e-commerce.
 
 Cobre Mercado Livre, Shopee, Amazon e plataformas próprias (Nuvemshop/Shopify) — desde copy de anúncios até automações com n8n.
 
@@ -28,7 +30,7 @@ Ao instalar, o Claude passa a ter conhecimento especializado em:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/orochaedsonn/r9-marketplace.git
+   git clone https://github.com/orochaedsonn/skill-claude-marketplace.git
    ```
 
 2. Mova para a pasta de skills do Claude Code:
@@ -94,7 +96,7 @@ Depois de instalar, basta conversar com o Claude normalmente. A skill é ativada
 
 ## Contexto de uso
 
-Essa skill foi criada para o fluxo de trabalho da R9 Marketing, mas funciona para qualquer agência ou vendedor que gerencie:
+Essa skill foi criada por **Edson Rocha - R9mkt** para o fluxo de trabalho da agência, mas funciona para qualquer agência ou vendedor que gerencie:
 
 - Contas próprias em marketplaces
 - Contas de clientes (modo agência)
@@ -136,4 +138,4 @@ MIT — use, adapte e distribua livremente.
 
 ---
 
-Desenvolvido por [R9 Marketing](https://github.com/orochaedsonn)
+Desenvolvido por **[Edson Rocha - R9mkt](https://github.com/orochaedsonn)**

@@ -14,7 +14,7 @@ description: >
 
 # R9 Marketplace Skill
 
-Skill de gestão completa de marketplaces para a R9 Marketing. Cobre Mercado Livre (prioridade máxima), Shopee, plataformas próprias (Nuvemshop/Shopify) e Amazon.
+Criada por **Edson Rocha - R9mkt**. Skill de gestão completa de marketplaces. Cobre Mercado Livre (prioridade máxima), Shopee, plataformas próprias (Nuvemshop/Shopify) e Amazon.
 
 ## Contexto da R9 Marketing
 
