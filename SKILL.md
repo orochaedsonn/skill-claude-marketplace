@@ -38,6 +38,7 @@ Quando o usuário pedir algo, identifique o módulo correto e carregue o arquivo
 | Automação n8n + APIs | `references/n8n-automacao.md` | Workflows, integrações, bots |
 | Regras do Mercado Livre | `references/mercado-livre.md` | Políticas, categorias, algoritmo |
 | Regras da Shopee | `references/shopee.md` | Políticas, boosting, afiliados |
+| Bling + Mercado Livre | `references/bling-ml.md` | Configuração Bling, campos ocultos ML, Faturador, Full, checklist |
 
 ---
 
@@ -97,6 +98,7 @@ Sempre entregue em seções claras:
 - Usuário pede workflow, n8n, API, automação, bot → `references/n8n-automacao.md`
 - Usuário pergunta sobre regras, categorias, restrições do ML → `references/mercado-livre.md`
 - Usuário pergunta sobre Shopee especificamente → `references/shopee.md`
+- Usuário pergunta sobre Bling, integração Bling+ML, Faturador ML, Full, SKU, NF, certificado A1 → `references/bling-ml.md`
 
 ---
 
