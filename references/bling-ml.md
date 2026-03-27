@@ -1,5 +1,4 @@
-# Bling + Mercado Livre — Configuração e Boas Práticas R9
-> por Edson Rocha - R9mkt
+﻿# Bling + Mercado Livre — Configuração e Boas Práticas R9
 
 ## Princípio fundamental
 
@@ -102,7 +101,7 @@ Assim não precisa selecionar Premium toda vez que criar um anúncio.
 | Importar nº do pedido nas observações | ✅ ATIVADO | Crítico — vincula pedido Bling ao pedido ML para rastreio e NF |
 | Importar valor do frete | ✅ ATIVADO | Obrigatório para emitir NF com valor de frete correto (certificado A1) |
 | Importar dados de faturamento | ✅ ATIVADO | Puxa CPF/CNPJ do comprador automaticamente para a NF |
-| Importar XML de NFe (Faturador) | 🟡 DESATIVADO AGORA / ATIVAR quando configurar Full | Obrigatório para Full — quando ativar o Faturador ML, ativar este campo para o Bling importar o XML e lançar estoque + contas automaticamente |
+| Importar XML de NFe (Faturador) | ⏳ DESATIVADO AGORA / ATIVAR quando configurar Full | Obrigatório para Full — quando ativar o Faturador ML, ativar este campo para o Bling importar o XML e lançar estoque + contas automaticamente |
 | Cancelar NFe automaticamente | ❌ DESATIVADO | Cancelamento automático de NF é irreversível — sempre cancelar manualmente |
 | Importar XML de NFe de Entrada | ❌ DESATIVADO | Só para compras/transferências — não aplica para vendas ML |
 | Importar XML NFe Fulfillment | ❌ DESATIVADO | Ativar apenas quando usar Fulfillment ML |
@@ -136,16 +135,16 @@ Qualquer dúvida, estamos à disposição! 😊
 Monte esse cálculo para cada produto antes de definir o preço no Bling:
 
 ```
-Custo do produto:               R$ ____
-+ Custo de embalagem:           R$ ____
-+ Frete médio (custo real):     R$ ____
-────────────────────────────────────────
-= Custo total:                  R$ ____
+Custo do produto:              R$ ____
++ Custo de embalagem:          R$ ____
++ Frete médio (custo real):    R$ ____
+─────────────────────────────────────
+= Custo total:                 R$ ____
 
 Sobre o preço de venda incidem:
-  Comissão ML Premium:          16%
-  Simples Nacional:             ~6% (verificar sua faixa)
-  Gateway/repasse ML:           já incluso na comissão
+  Comissão ML Premium:         16%
+  Simples Nacional:            ~6% (verificar sua faixa)
+  Gateway/repasse ML:          já incluso na comissão
 
 Fórmula do preço mínimo viável:
 Preço = Custo total ÷ (1 - 0,16 - 0,06)

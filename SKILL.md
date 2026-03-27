@@ -39,6 +39,7 @@ Quando o usuário pedir algo, identifique o módulo correto e carregue o arquivo
 | Regras do Mercado Livre | `references/mercado-livre.md` | Políticas, categorias, algoritmo |
 | Regras da Shopee | `references/shopee.md` | Políticas, boosting, afiliados |
 | Bling + Mercado Livre | `references/bling-ml.md` | Configuração Bling, campos ocultos ML, Faturador, Full, checklist |
+| Bling + Google Sheets | `references/bling-google-sheets.md` | Integração Bling API v3 com planilha de precificação |
 
 ---
 
@@ -99,6 +100,7 @@ Sempre entregue em seções claras:
 - Usuário pergunta sobre regras, categorias, restrições do ML → `references/mercado-livre.md`
 - Usuário pergunta sobre Shopee especificamente → `references/shopee.md`
 - Usuário pergunta sobre Bling, integração Bling+ML, Faturador ML, Full, SKU, NF, certificado A1 → `references/bling-ml.md`
+- Usuário pergunta sobre Bling + Google Sheets, planilha de precificação, Apps Script, OAuth Bling → `references/bling-google-sheets.md`
 
 ---
 

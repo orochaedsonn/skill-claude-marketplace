@@ -1,5 +1,4 @@
 ﻿# Anúncios Copy — R9 Marketplace
-> por Edson Rocha - R9mkt
 
 ## Fórmulas de título por plataforma
 

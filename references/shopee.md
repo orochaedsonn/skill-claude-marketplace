@@ -1,5 +1,4 @@
 ﻿# Shopee — Referência Completa R9
-> por Edson Rocha - R9mkt
 
 ## Como funciona o algoritmo da Shopee
 
